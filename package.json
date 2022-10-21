@@ -1,16 +1,16 @@
 {
-"name": "superlotto888",
-"theme": "superlotto888",
-"version": "2.6.6",
-"description": "superlotto888 สมัครเว็บไซต์บาคาร่าเว็บตรง ไม่มีขั้นต่ำ แจกโบนัสเครดิตฟรี",
-"keywords": [
-"superlotto888",
-"superlotto888 เครดิตฟรี",
-"superlotto888 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/superlotto888",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "superlotto888",
+  "theme": "superlotto888",
+  "version": "2.7.0",
+  "description": "superlotto888 สมัครเว็บไซต์บาคาร่าเว็บตรง ไม่มีขั้นต่ำ แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "superlotto888",
+    "superlotto888 เครดิตฟรี",
+    "superlotto888 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/superlotto888",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
